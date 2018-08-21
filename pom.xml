@@ -13,7 +13,6 @@
 		<spark.version>2.2</spark.version>
 		<h2.version>1.4.190</h2.version>
 		<hibernate.version>5.1.0.Final</hibernate.version>
-		<btm.version>2.1.4</btm.version>
 		<joda.money.version>0.12</joda.money.version>
 		<jackson.version>2.9.4</jackson.version>
 		<guava.version>18.0</guava.version>
